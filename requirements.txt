@@ -2,4 +2,5 @@ streamlit
 scikit-learn
 nltk
 stopwords
-scipy
+scipy==1.7.3
+
