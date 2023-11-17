@@ -2,3 +2,4 @@ streamlit
 scikit-learn
 nltk
 stopwords
+scipy
